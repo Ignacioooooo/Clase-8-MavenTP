@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clase-8-MavenTp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clase_8_MavenTp_jar</output-path>
+    <root id="archive" name="Clase-8-MavenTp.jar">
+      <element id="module-output" name="Clase-8-MavenTp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
